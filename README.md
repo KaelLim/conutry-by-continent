@@ -7,7 +7,7 @@ pip3 install googletrans==4.0.0-rc1 time
 
 translate.py 翻譯程式有異常，可設定time.sleep(1) 更長，但這樣翻譯更久。因為未設會導致程式來不及翻譯就增加新的資訊導致異常。
 
-若你發生以下問題
+若你發生以下問題<br/>
 if r.status_code != 200 and self.**raise_Exception:**<br/>
 AttributeError: 'Translator' object has no attribute 'raise_Exception'. Did you mean: *raise_exception'?<br/>
 C:\Users\<User_Folder>\AppData\Local\Programs\Python\Python310\lib\site-packages\googletrans\
