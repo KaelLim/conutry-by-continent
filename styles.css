@@ -1,0 +1,82 @@
+/* 樣式表 */
+
+/* 基本頁面樣式 */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+/* 表格樣式 */
+table {
+    border-collapse: collapse;
+    width: 100%;  /* 固定表格寬度 */
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+}
+
+th, td {
+    border: 1px solid #dcdcdc;
+    text-align: left;
+    padding: 12px;
+}
+
+tr:nth-child(even) {
+    background-color: #f4f4f4;
+}
+
+tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+/* 固定列寬 */
+th:nth-child(1), td:nth-child(1) {
+    width: 20%;
+}
+th:nth-child(2), td:nth-child(2) {
+    width: 20%;
+}
+th:nth-child(3), td:nth-child(3) {
+    width: 20%;
+}
+th:nth-child(4), td:nth-child(4) {
+    width: 30%;
+}
+th:nth-child(5), td:nth-child(5) {
+    width: 10%;
+}
+
+/* Accordion 樣式 */
+.accordion {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    text-align: left;
+    outline: none;
+    transition: 0.4s;
+    margin-top: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.active, .accordion:hover {
+    background-color: #45a049;
+}
+
+.panel {
+    display: none;  /* 預設為不可見 */
+    overflow: hidden;
+    background-color: #f1f1f1;
+    transition: max-height 0.2s ease-out;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+.specialAccordion {
+    background-color: #4CAF50;
+    color: white;
+    padding: 18px;
+    text-align: left;
+    margin-top: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
