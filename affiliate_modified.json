@@ -1021,8 +1021,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "澎湖縣",
-        "postalCode": "未知",
-        "fullAddress": "未知澎湖縣馬公市西文里13-2號",
+        "postalCode": 880,
+        "fullAddress": "880澎湖縣馬公市西文里13-2號",
         "continents": "本會"
     },
     {
@@ -1534,8 +1534,8 @@
         "modifyDate": "2023/08/20",
         "modifyOpId": "tr_l0273",
         "province": "新竹市",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹市民享街26號",
+        "postalCode": 300,
+        "fullAddress": "300新竹市民享街26號",
         "continents": "本會"
     },
     {
@@ -1588,8 +1588,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "新竹市",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹市中華路5段208巷20號",
+        "postalCode": 300,
+        "fullAddress": "300新竹市中華路5段208巷20號",
         "continents": "本會"
     },
     {
@@ -1615,8 +1615,8 @@
         "modifyDate": "2019/04/15",
         "modifyOpId": "鄭鳳嘉",
         "province": "新竹縣",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹縣竹北市鳳崗路五段57巷10號",
+        "postalCode": 302,
+        "fullAddress": "302新竹縣竹北市鳳崗路五段57巷10號",
         "continents": "本會"
     },
     {
@@ -2236,8 +2236,8 @@
         "modifyDate": "2011/07/18",
         "modifyOpId": "李青海",
         "province": "苗栗縣",
-        "postalCode": "未知",
-        "fullAddress": "未知苗栗縣頭份市新華里中正一路554.556.558號2F",
+        "postalCode": 350,
+        "fullAddress": "350苗栗縣頭份市新華里中正一路554.556.558號2F",
         "continents": "本會"
     },
     {
@@ -2290,8 +2290,8 @@
         "modifyDate": "2017/08/04",
         "modifyOpId": "陳明德",
         "province": "苗栗縣",
-        "postalCode": "未知",
-        "fullAddress": "未知苗栗縣頭份市中正路33號",
+        "postalCode": 350,
+        "fullAddress": "350苗栗縣頭份市中正路33號",
         "continents": "本會"
     },
     {
@@ -2479,8 +2479,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "南投縣",
-        "postalCode": "未知",
-        "fullAddress": "未知南投縣南投市果稟路101號",
+        "postalCode": 540,
+        "fullAddress": "540南投縣南投市果稟路101號",
         "continents": "本會"
     },
     {
@@ -2614,8 +2614,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "苗栗縣",
-        "postalCode": "未知",
-        "fullAddress": "未知苗栗縣苗栗市福星里中華路243號",
+        "postalCode": 360,
+        "fullAddress": "360苗栗縣苗栗市福星里中華路243號",
         "continents": "本會"
     },
     {
@@ -2965,8 +2965,8 @@
         "modifyDate": "2020/11/30",
         "modifyOpId": "鄭鳳嘉",
         "province": "苗栗縣",
-        "postalCode": "未知",
-        "fullAddress": "未知苗栗縣頭份市上埔里上埔路8鄰83巷184號",
+        "postalCode": 350,
+        "fullAddress": "350苗栗縣頭份市上埔里上埔路8鄰83巷184號",
         "continents": "本會"
     },
     {
@@ -3073,8 +3073,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "彰化縣",
-        "postalCode": "未知",
-        "fullAddress": "未知彰化縣員林市員東路一段465號",
+        "postalCode": 500,
+        "fullAddress": "500彰化縣員林市員東路一段465號",
         "continents": "本會"
     },
     {
@@ -3154,8 +3154,8 @@
         "modifyDate": "2023/08/18",
         "modifyOpId": "lts00075",
         "province": "彰化縣",
-        "postalCode": "未知",
-        "fullAddress": "未知彰化縣彰化市中正路一段458號二樓",
+        "postalCode": 500,
+        "fullAddress": "500彰化縣彰化市中正路一段458號二樓",
         "continents": "本會"
     },
     {
@@ -3181,8 +3181,8 @@
         "modifyDate": "2023/08/18",
         "modifyOpId": "lts00075",
         "province": "彰化縣",
-        "postalCode": "未知",
-        "fullAddress": "未知彰化縣彰化市延和里埔西街278號",
+        "postalCode": 500,
+        "fullAddress": "500彰化縣彰化市延和里埔西街278號",
         "continents": "本會"
     },
     {
@@ -3505,8 +3505,8 @@
         "modifyDate": "2023/08/28",
         "modifyOpId": "si_f10721",
         "province": "雲林縣",
-        "postalCode": "未知",
-        "fullAddress": "未知雲林縣斗六市建成路42號",
+        "postalCode": 640,
+        "fullAddress": "640雲林縣斗六市建成路42號",
         "continents": "本會"
     },
     {
@@ -3748,8 +3748,8 @@
         "modifyDate": "2020/04/24",
         "modifyOpId": "鄭鳳嘉",
         "province": "嘉義縣",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義縣太保市田尾里8鄰溪南1之10號〈隔壁〉",
+        "postalCode": 612,
+        "fullAddress": "612嘉義縣太保市田尾里8鄰溪南1之10號〈隔壁〉",
         "continents": "本會"
     },
     {
@@ -3775,8 +3775,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "嘉義市",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義市彌陀路26號",
+        "postalCode": 600,
+        "fullAddress": "600嘉義市彌陀路26號",
         "continents": "本會"
     },
     {
@@ -3937,8 +3937,8 @@
         "modifyDate": "2023/08/17",
         "modifyOpId": "ytk05e32",
         "province": "屏東縣",
-        "postalCode": "未知",
-        "fullAddress": "未知屏東縣屏東市棒球路162號",
+        "postalCode": 900,
+        "fullAddress": "900屏東縣屏東市棒球路162號",
         "continents": "本會"
     },
     {
@@ -5017,8 +5017,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "臺東縣",
-        "postalCode": "未知",
-        "fullAddress": "未知臺東縣臺東市四維路2段600號",
+        "postalCode": 950,
+        "fullAddress": "950臺東縣臺東市四維路2段600號",
         "continents": "本會"
     },
     {
@@ -5152,8 +5152,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市中央路3段703號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市中央路3段703號",
         "continents": "本會"
     },
     {
@@ -5179,8 +5179,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "宜蘭縣",
-        "postalCode": "未知",
-        "fullAddress": "未知宜蘭縣宜蘭市東港路一段405號",
+        "postalCode": 260,
+        "fullAddress": "260宜蘭縣宜蘭市東港路一段405號",
         "continents": "本會"
     },
     {
@@ -5233,8 +5233,8 @@
         "modifyDate": "2019/03/19",
         "modifyOpId": "王淑芬",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市民運里001鄰中美路242號 一樓",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市民運里001鄰中美路242號 一樓",
         "continents": "本會"
     },
     {
@@ -8359,8 +8359,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "嘉義市",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義市嘉義市博愛路2段469巷19號",
+        "postalCode": 600,
+        "fullAddress": "600嘉義市嘉義市博愛路2段469巷19號",
         "continents": "本會"
     },
     {
@@ -12997,8 +12997,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "雲林縣",
-        "postalCode": "未知",
-        "fullAddress": "未知雲林縣斗六市雲林路二段248號",
+        "postalCode": 640,
+        "fullAddress": "640雲林縣斗六市雲林路二段248號",
         "continents": "本會"
     },
     {
@@ -13360,8 +13360,8 @@
         "modifyDate": "",
         "modifyOpId": "",
         "province": "雲林縣",
-        "postalCode": "未知",
-        "fullAddress": "未知雲林縣斗六市雲林路二段248號地下一樓",
+        "postalCode": 640,
+        "fullAddress": "640雲林縣斗六市雲林路二段248號地下一樓",
         "continents": "本會"
     },
     {
@@ -13555,8 +13555,8 @@
         "modifyDate": "",
         "modifyOpId": "",
         "province": "雲林縣",
-        "postalCode": "未知",
-        "fullAddress": "未知雲林縣斗六市雲林路二段248號",
+        "postalCode": 640,
+        "fullAddress": "640雲林縣斗六市雲林路二段248號",
         "continents": "本會"
     },
     {
@@ -17167,8 +17167,8 @@
         "modifyDate": "2011/07/16",
         "modifyOpId": "李青海",
         "province": "苗栗縣",
-        "postalCode": "未知",
-        "fullAddress": "未知苗栗縣苗栗市中華路243號1樓",
+        "postalCode": 360,
+        "fullAddress": "360苗栗縣苗栗市中華路243號1樓",
         "continents": "本會"
     },
     {
@@ -17329,8 +17329,8 @@
         "modifyDate": "",
         "modifyOpId": "",
         "province": "澎湖縣",
-        "postalCode": "未知",
-        "fullAddress": "未知澎湖縣馬公市西文里13-2號",
+        "postalCode": 880,
+        "fullAddress": "880澎湖縣馬公市西文里13-2號",
         "continents": "本會"
     },
     {
@@ -17356,8 +17356,8 @@
         "modifyDate": "2011/07/16",
         "modifyOpId": "李青海",
         "province": "南投縣",
-        "postalCode": "未知",
-        "fullAddress": "未知南投縣南投市振興里8鄰菓稟路101號",
+        "postalCode": 540,
+        "fullAddress": "540南投縣南投市振興里8鄰菓稟路101號",
         "continents": "本會"
     },
     {
@@ -18355,8 +18355,8 @@
         "modifyDate": "2011/07/16",
         "modifyOpId": "李青海",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市中央路三段707號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市中央路三段707號",
         "continents": "本會"
     },
     {
@@ -18382,8 +18382,8 @@
         "modifyDate": "2011/07/16",
         "modifyOpId": "李青海",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市中央路三段703號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市中央路三段703號",
         "continents": "本會"
     },
     {
@@ -18571,8 +18571,8 @@
         "modifyDate": "2011/07/16",
         "modifyOpId": "李青海",
         "province": "新竹市",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹市中華路五段208巷20號",
+        "postalCode": 300,
+        "fullAddress": "300新竹市中華路五段208巷20號",
         "continents": "本會"
     },
     {
@@ -18706,8 +18706,8 @@
         "modifyDate": "2012/12/18",
         "modifyOpId": "蔡奇珊",
         "province": "嘉義市",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義市彌陀路28號",
+        "postalCode": 600,
+        "fullAddress": "600嘉義市彌陀路28號",
         "continents": "本會"
     },
     {
@@ -18868,8 +18868,8 @@
         "modifyDate": "2011/07/16",
         "modifyOpId": "李青海",
         "province": "雲林縣",
-        "postalCode": "未知",
-        "fullAddress": "未知雲林縣斗六市雲林路二段248號",
+        "postalCode": 640,
+        "fullAddress": "640雲林縣斗六市雲林路二段248號",
         "continents": "本會"
     },
     {
@@ -18976,8 +18976,8 @@
         "modifyDate": "",
         "modifyOpId": "",
         "province": "臺東縣",
-        "postalCode": "未知",
-        "fullAddress": "未知臺東縣臺東市四維路二段606號",
+        "postalCode": 950,
+        "fullAddress": "950臺東縣臺東市四維路二段606號",
         "continents": "本會"
     },
     {
@@ -19858,8 +19858,8 @@
         "modifyDate": "2022/09/05",
         "modifyOpId": "user2",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市中山路一段3巷182號1樓之7",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市中山路一段3巷182號1樓之7",
         "continents": "本會"
     },
     {
@@ -19885,8 +19885,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市建國路二段880號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市建國路二段880號",
         "continents": "本會"
     },
     {
@@ -19912,8 +19912,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市中央路三段701號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市中央路三段701號",
         "continents": "本會"
     },
     {
@@ -19939,8 +19939,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市介仁街178號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市介仁街178號",
         "continents": "本會"
     },
     {
@@ -19966,8 +19966,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市介仁街178號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市介仁街178號",
         "continents": "本會"
     },
     {
@@ -19993,8 +19993,8 @@
         "modifyDate": "",
         "modifyOpId": "",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市介仁街178號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市介仁街178號",
         "continents": "本會"
     },
     {
@@ -20857,8 +20857,8 @@
         "modifyDate": "2020/04/14",
         "modifyOpId": "張涵鈞",
         "province": "南投縣",
-        "postalCode": "未知",
-        "fullAddress": "未知南投縣南投市稟路101號（南投園區內）",
+        "postalCode": 540,
+        "fullAddress": "540南投縣南投市稟路101號（南投園區內）",
         "continents": "本會"
     },
     {
@@ -21046,8 +21046,8 @@
         "modifyDate": "2020/04/14",
         "modifyOpId": "張涵鈞",
         "province": "苗栗縣",
-        "postalCode": "未知",
-        "fullAddress": "未知苗栗縣苗栗市福星里中華路24號",
+        "postalCode": 360,
+        "fullAddress": "360苗栗縣苗栗市福星里中華路24號",
         "continents": "本會"
     },
     {
@@ -23689,8 +23689,8 @@
         "modifyDate": "2020/04/14",
         "modifyOpId": "張涵鈞",
         "province": "宜蘭縣",
-        "postalCode": "未知",
-        "fullAddress": "未知宜蘭縣宜蘭市宜蘭市東港路9-44號(宜蘭聯絡處旁)",
+        "postalCode": 260,
+        "fullAddress": "260宜蘭縣宜蘭市宜蘭市東港路9-44號(宜蘭聯絡處旁)",
         "continents": "本會"
     },
     {
@@ -23770,8 +23770,8 @@
         "modifyDate": "2011/08/31",
         "modifyOpId": "蔡奇珊",
         "province": "臺東縣",
-        "postalCode": "未知",
-        "fullAddress": "未知臺東縣臺東市四維路二段606號",
+        "postalCode": 950,
+        "fullAddress": "950臺東縣臺東市四維路二段606號",
         "continents": "本會"
     },
     {
@@ -23851,8 +23851,8 @@
         "modifyDate": "2022/09/27",
         "modifyOpId": "si_j21436",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市中央路三段381號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市中央路三段381號",
         "continents": "本會"
     },
     {
@@ -23878,8 +23878,8 @@
         "modifyDate": "2011/08/31",
         "modifyOpId": "蔡奇珊",
         "province": "澎湖縣",
-        "postalCode": "未知",
-        "fullAddress": "未知澎湖縣馬公市馬公市",
+        "postalCode": 880,
+        "fullAddress": "880澎湖縣馬公市馬公市",
         "continents": "本會"
     },
     {
@@ -25714,8 +25714,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "嘉義市",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義市延平街448號三樓之4",
+        "postalCode": 600,
+        "fullAddress": "600嘉義市延平街448號三樓之4",
         "continents": "本會"
     },
     {
@@ -26335,8 +26335,8 @@
         "modifyDate": "2023/08/28",
         "modifyOpId": "si_f10721",
         "province": "雲林縣",
-        "postalCode": "未知",
-        "fullAddress": "未知雲林縣斗六市南仁路154-1號",
+        "postalCode": 640,
+        "fullAddress": "640雲林縣斗六市南仁路154-1號",
         "continents": "本會"
     },
     {
@@ -26605,8 +26605,8 @@
         "modifyDate": "2023/08/18",
         "modifyOpId": "tr_l0273",
         "province": "新竹市",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹市新竹市水利路46巷86-6號對面",
+        "postalCode": 300,
+        "fullAddress": "300新竹市新竹市水利路46巷86-6號對面",
         "continents": "本會"
     },
     {
@@ -26632,8 +26632,8 @@
         "modifyDate": "2023/08/20",
         "modifyOpId": "tr_l0273",
         "province": "新竹縣",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹縣竹北市福德街118號",
+        "postalCode": 302,
+        "fullAddress": "302新竹縣竹北市福德街118號",
         "continents": "本會"
     },
     {
@@ -26713,8 +26713,8 @@
         "modifyDate": "2023/08/18",
         "modifyOpId": "tr_l0273",
         "province": "新竹市",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹市明湖路1183號",
+        "postalCode": 300,
+        "fullAddress": "300新竹市明湖路1183號",
         "continents": "本會"
     },
     {
@@ -26740,8 +26740,8 @@
         "modifyDate": "2011/08/31",
         "modifyOpId": "蔡奇珊",
         "province": "新竹市",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹市北大路40巷15號",
+        "postalCode": 300,
+        "fullAddress": "300新竹市北大路40巷15號",
         "continents": "本會"
     },
     {
@@ -26767,8 +26767,8 @@
         "modifyDate": "2023/08/18",
         "modifyOpId": "tr_l0273",
         "province": "新竹市",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹市天府路421號",
+        "postalCode": 300,
+        "fullAddress": "300新竹市天府路421號",
         "continents": "本會"
     },
     {
@@ -26794,8 +26794,8 @@
         "modifyDate": "2023/08/18",
         "modifyOpId": "tr_l0273",
         "province": "新竹市",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹市慈雲路306號",
+        "postalCode": 300,
+        "fullAddress": "300新竹市慈雲路306號",
         "continents": "本會"
     },
     {
@@ -26929,8 +26929,8 @@
         "modifyDate": "2023/08/18",
         "modifyOpId": "tr_l0273",
         "province": "新竹市",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹市中華路5段208巷20號",
+        "postalCode": 300,
+        "fullAddress": "300新竹市中華路5段208巷20號",
         "continents": "本會"
     },
     {
@@ -26956,8 +26956,8 @@
         "modifyDate": "2023/08/18",
         "modifyOpId": "tr_l0273",
         "province": "新竹市",
-        "postalCode": "未知",
-        "fullAddress": "未知新竹市新竹市鐵道路二段",
+        "postalCode": 300,
+        "fullAddress": "300新竹市新竹市鐵道路二段",
         "continents": "本會"
     },
     {
@@ -27118,8 +27118,8 @@
         "modifyDate": "2014/01/17",
         "modifyOpId": "張涵鈞",
         "province": "嘉義縣",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義縣朴子市大鄉里大槺榔段地號137-2",
+        "postalCode": 613,
+        "fullAddress": "613嘉義縣朴子市大鄉里大槺榔段地號137-2",
         "continents": "本會"
     },
     {
@@ -27172,8 +27172,8 @@
         "modifyDate": "2014/06/17",
         "modifyOpId": "張涵鈞",
         "province": "嘉義市",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義市嘉義市西區撫順三街119號 ",
+        "postalCode": 600,
+        "fullAddress": "600嘉義市嘉義市西區撫順三街119號 ",
         "continents": "本會"
     },
     {
@@ -27253,8 +27253,8 @@
         "modifyDate": "2020/04/14",
         "modifyOpId": "張涵鈞",
         "province": "嘉義市",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義市嘉義市博愛路2段469巷19號",
+        "postalCode": 600,
+        "fullAddress": "600嘉義市嘉義市博愛路2段469巷19號",
         "continents": "本會"
     },
     {
@@ -27361,8 +27361,8 @@
         "modifyDate": "2023/08/18",
         "modifyOpId": "lts00075",
         "province": "彰化縣",
-        "postalCode": "未知",
-        "fullAddress": "未知彰化縣彰化市天祥路219號旁左邊空地(大埔段0518-0183、0520-0016、17、18、19號)",
+        "postalCode": 500,
+        "fullAddress": "500彰化縣彰化市天祥路219號旁左邊空地(大埔段0518-0183、0520-0016、17、18、19號)",
         "continents": "本會"
     },
     {
@@ -27469,8 +27469,8 @@
         "modifyDate": "2011/08/31",
         "modifyOpId": "蔡奇珊",
         "province": "彰化縣",
-        "postalCode": "未知",
-        "fullAddress": "未知彰化縣彰化市自強路171巷(富豪桂冠大樓旁)",
+        "postalCode": 500,
+        "fullAddress": "500彰化縣彰化市自強路171巷(富豪桂冠大樓旁)",
         "continents": "本會"
     },
     {
@@ -27685,8 +27685,8 @@
         "modifyDate": "2011/08/31",
         "modifyOpId": "蔡奇珊",
         "province": "彰化縣",
-        "postalCode": "未知",
-        "fullAddress": "未知彰化縣員林市員東路一段538巷26號",
+        "postalCode": 500,
+        "fullAddress": "500彰化縣員林市員東路一段538巷26號",
         "continents": "本會"
     },
     {
@@ -27901,8 +27901,8 @@
         "modifyDate": "2023/08/18",
         "modifyOpId": "lts00075",
         "province": "彰化縣",
-        "postalCode": "未知",
-        "fullAddress": "未知彰化縣彰化市寶廍里寶聖路177號",
+        "postalCode": 500,
+        "fullAddress": "500彰化縣彰化市寶廍里寶聖路177號",
         "continents": "本會"
     },
     {
@@ -28117,8 +28117,8 @@
         "modifyDate": "2018/02/05",
         "modifyOpId": "張涵鈞",
         "province": "宜蘭縣",
-        "postalCode": "未知",
-        "fullAddress": "未知宜蘭縣宜蘭市嵐峰路二段103號後面",
+        "postalCode": 260,
+        "fullAddress": "260宜蘭縣宜蘭市嵐峰路二段103號後面",
         "continents": "本會"
     },
     {
@@ -29224,8 +29224,8 @@
         "modifyDate": "",
         "modifyOpId": "",
         "province": "嘉義縣",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義縣太保市田尾里8鄰溪南1-10號",
+        "postalCode": 612,
+        "fullAddress": "612嘉義縣太保市田尾里8鄰溪南1-10號",
         "continents": "本會"
     },
     {
@@ -29251,8 +29251,8 @@
         "modifyDate": "",
         "modifyOpId": "",
         "province": "嘉義縣",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義縣朴子市水牛厝北興路162-3號",
+        "postalCode": 613,
+        "fullAddress": "613嘉義縣朴子市水牛厝北興路162-3號",
         "continents": "本會"
     },
     {
@@ -29332,8 +29332,8 @@
         "modifyDate": "",
         "modifyOpId": "",
         "province": "嘉義市",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義市世賢路二段196巷98號",
+        "postalCode": 600,
+        "fullAddress": "600嘉義市世賢路二段196巷98號",
         "continents": "本會"
     },
     {
@@ -34045,8 +34045,8 @@
         "modifyDate": "",
         "modifyOpId": "蔡奇珊",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市中央路三段701號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市中央路三段701號",
         "continents": "本會"
     },
     {
@@ -34150,8 +34150,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "嘉義市",
-        "postalCode": "未知",
-        "fullAddress": "未知嘉義市仁愛路383號1樓",
+        "postalCode": 600,
+        "fullAddress": "600嘉義市仁愛路383號1樓",
         "continents": "本會"
     },
     {
@@ -34177,8 +34177,8 @@
         "modifyDate": "2023/09/07",
         "modifyOpId": "atc00099",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市中央路三段707號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市中央路三段707號",
         "continents": "本會"
     },
     {
@@ -34204,8 +34204,8 @@
         "modifyDate": "",
         "modifyOpId": "",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市中央路三段707號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市中央路三段707號",
         "continents": "本會"
     },
     {
@@ -34231,8 +34231,8 @@
         "modifyDate": "",
         "modifyOpId": "",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市中山路一段3巷25弄36號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市中山路一段3巷25弄36號",
         "continents": "本會"
     },
     {
@@ -34258,8 +34258,8 @@
         "modifyDate": "",
         "modifyOpId": "",
         "province": "花蓮縣",
-        "postalCode": "未知",
-        "fullAddress": "未知花蓮縣花蓮市中央路三段707號",
+        "postalCode": 970,
+        "fullAddress": "970花蓮縣花蓮市中央路三段707號",
         "continents": "本會"
     },
     {
