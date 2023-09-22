@@ -172,7 +172,7 @@
         "continent": "南美洲"
     },
     {
-        "country": "中國",
+        "country": "中國大陸",
         "continent": "亞洲"
     },
     {
@@ -528,8 +528,28 @@
         "continent": "大洋洲"
     },
     {
+        "country": "澳洲",
+        "continent": "大洋洲"
+    },
+    {
+        "country": "土耳其",
+        "continent": "亞洲"
+    },
+    {
         "country": "馬提尼克",
         "continent": "北美"
+    },
+    {
+        "country": "史瓦帝尼",
+        "continent": "非洲"
+    },
+    {
+        "country": "印尼",
+        "continent": "亞洲"
+    },
+    {
+        "country": "俄羅斯",
+        "continent": "亞洲"
     },
     {
         "country": "茅利塔尼亞",
@@ -557,6 +577,10 @@
     },
     {
         "country": "摩納哥",
+        "continent": "歐洲"
+    },
+    {
+        "country": "波士尼亞",
         "continent": "歐洲"
     },
     {
@@ -605,6 +629,10 @@
     },
     {
         "country": "新喀裡多尼亞",
+        "continent": "大洋洲"
+    },
+    {
+        "country": "美屬薩摩亞",
         "continent": "大洋洲"
     },
     {
@@ -736,7 +764,11 @@
         "continent": "北美"
     },
     {
-        "country": "聖文森及格瑞那丁",
+        "country": "聖皮埃爾和米克隆",
+        "continent": "北美"
+    },
+    {
+        "country": "荷屬聖馬丁",
         "continent": "北美"
     },
     {
