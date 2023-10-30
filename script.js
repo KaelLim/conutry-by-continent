@@ -33,10 +33,11 @@ function displayData(data, continent) {
     let uniqueCategories = [];
 
     if (continent === '本會') {
-        uniqueCategories = [...new Set(filteredData.map(item => item.province))];
+        uniqueCategories = [...new Set(filteredData.map(item => item.province))].filter(province => province !== "未知");
     } else {
         uniqueCategories = [...new Set(filteredData.map(item => item.nation))];
     }
+    
 
     uniqueCategories.forEach(category => {
         const categoryData = (continent === '本會')
