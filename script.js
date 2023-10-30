@@ -11,12 +11,20 @@ fetch('https://raw.githubusercontent.com/KaelLim/country-by-continent/main/affil
             const btn = document.createElement('button');
             btn.className = "contact-n-button";
             btn.innerText = continent;
+
             btn.addEventListener('click', () => {
+                // 移除所有按鈕的 active 狀態
+                document.querySelectorAll('.contact-n-button').forEach(b => {
+                    b.classList.remove('contact-n-active');
+                });
+                // 將被點擊的按鈕設為 active
+                btn.classList.add('contact-n-active');
                 displayData(data, continent);
             });
+            
             buttonContainer.appendChild(btn);
         });
-
+        
         // 將「本會」的按鈕設為 active
         const benhuiButton = Array.from(document.querySelectorAll('.contact-n-button')).find(btn => btn.innerText === '本會');
         if (benhuiButton) {
@@ -24,6 +32,7 @@ fetch('https://raw.githubusercontent.com/KaelLim/country-by-continent/main/affil
             displayData(data, '本會');
         }
     });
+
 
 
 function displayData(data, continent) {
