@@ -1,82 +1,112 @@
-/* 樣式表 */
-
-/* 基本頁面樣式 */
-body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #f9f9f9;
+.contact-n-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
-/* 表格樣式 */
-table {
-    border-collapse: collapse;
-    width: 100%;  /* 固定表格寬度 */
-    box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+@media (max-width: 768px) {
+    .contact-n-container {
+        padding: 10px;
+    }
 }
 
-th, td {
-    border: 1px solid #dcdcdc;
-    text-align: left;
-    padding: 12px;
+#contact-n-buttonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;  /* 讓按鈕能換行，如果容器寬度不足 */
 }
 
-tr:nth-child(even) {
-    background-color: #f4f4f4;
+.contact-n-button {
+    margin: 5px 10px;
+    padding: 8px 15px;
+    background-color: rgb(81, 134, 29);
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 1.2em;
 }
 
-tr:nth-child(odd) {
-    background-color: #ffffff;
+.contact-n-button:hover {
+    background-color: rgb(56, 91, 20);
 }
 
-/* 固定列寬 */
-th:nth-child(1), td:nth-child(1) {
-    width: 20%;
-}
-th:nth-child(2), td:nth-child(2) {
-    width: 20%;
-}
-th:nth-child(3), td:nth-child(3) {
-    width: 20%;
-}
-th:nth-child(4), td:nth-child(4) {
-    width: 30%;
-}
-th:nth-child(5), td:nth-child(5) {
-    width: 10%;
-}
-
-/* Accordion 樣式 */
-.accordion {
-    background-color: #4CAF50;
+.contact-n-accordion {
+    background-color: rgb(81, 134, 29); /* Material Design 主色 */
     color: white;
     cursor: pointer;
-    padding: 18px;
+    padding: 14px;
+    width: 100%;
+    border: none;
     text-align: left;
     outline: none;
+    font-size: 15px;
     transition: 0.4s;
-    margin-top: 10px;
-    font-size: 1.2em;
-    font-weight: bold;
+    margin: 8px 0; /* 增加間隙 */
 }
 
-.active, .accordion:hover {
-    background-color: #45a049;
+.contact-n-active, .contact-n-accordion:hover {
+    background-color: rgb(56, 91, 20); /* Material Design 深色主色 */
 }
 
-.panel {
-    display: none;  /* 預設為不可見 */
+.contact-n-panel {
+    padding: 0 10px;
+    display: none;
+    background-color: white;
     overflow: hidden;
-    background-color: #f1f1f1;
-    transition: max-height 0.2s ease-out;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* 添加陰影 */
 }
 
-.specialAccordion {
-    background-color: #4CAF50;
-    color: white;
-    padding: 18px;
-    text-align: left;
-    margin-top: 10px;
-    font-size: 1.2em;
-    font-weight: bold;
+.contact-n-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.contact-n-table th, 
+.contact-n-table td {
+    padding: 15px; /* 增加每個單元格的間距 */
+    text-align: left; /* 文字左對齊 */
+    font-size: 14px; /* 調整字型大小 */
+}
+
+.contact-n-table tr:nth-child(odd) {
+    background-color: rgba(236, 239, 241, 0.5); /* 淡灰色背景 for odd rows */
+}
+
+/* 如果您不想要表格的邊框 */
+.contact-n-table, 
+.contact-n-table th, 
+.contact-n-table td {
+    border: none;
+}
+
+.contact-n-th {
+    background-color: #ECEFF1; /* 淺灰色背景 */
+    color: #333; /* 深灰色文字 */
+    padding: 8px 12px;
+}
+
+.contact-n-table tr:nth-child(odd) {
+    background-color: rgba(236, 239, 241, 0.5); /* 淺灰色背景並淡化 50% */
+}
+
+.contact-n-link {
+    color: rgb(81, 134, 29); /* Material Design 主色 */
+    text-decoration: none;
+}
+
+.contact-n-link:hover {
+    text-decoration: underline;
+}
+
+/* 移除 table 的邊框 */
+.contact-n-table, .contact-n-th, .contact-n-td {
+    border: none;
+}
+
+.contact-n-td {
+    padding: 8px 12px;
+    color: #333;
 }
